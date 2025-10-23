@@ -15,10 +15,10 @@ export default function App() {
 
       <View style={styles.info}>
         <Text style={styles.label}>
-          Nom : <Text style={styles.value}>hebbada</Text>
+          Nom : <Text style={styles.value}>Loudiy</Text>
         </Text>
         <Text style={styles.label}>
-          Prénom : <Text style={styles.value}>mohammed</Text>
+          Prénom : <Text style={styles.value}>Mohamed Ali</Text>
         </Text>
         <Text style={styles.label}>
           Année universitaire : <Text style={styles.value}>2025 / 2026</Text>
